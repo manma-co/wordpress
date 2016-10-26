@@ -1,0 +1,53 @@
+.keyvisual {
+  position: relative;
+  background-image: url(../../image/index/keyvisual/bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.keyvisual img {
+  max-width: 500px;
+}
+
+.keyvisual-main {
+  min-height: 750px;
+}
+
+.keyvisual-sub {
+  min-height: 440px;
+}
+
+.keyvisual-text, .subkeyvisual-text {
+  padding-top: 15%;
+}
+
+.subkeyvisual-text img {
+  padding-bottom: 1%;
+}
+
+.social-share {
+  display: inline-block;
+}
+
+.social-share li {
+  float: left;
+}
+
+.social-share li:nth-child(2) {
+  margin-left: 5px;
+}
+
+@media screen and (max-width: 640px) {
+  .keyvisual img {
+    padding-right: 5%;
+    padding-left: 5%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .subkeyvisual-text {
+    padding-top: 30%;
+  }
+}

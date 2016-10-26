@@ -1,0 +1,35 @@
+.media-box {
+  padding: 5%;
+  margin: 3% 0;
+}
+
+.box-shadow {
+  border: 1px solid #ddd;
+  box-shadow: 0 0.8px 0.8px rgba(0, 0, 0, 0.1);
+}
+
+.media-type {
+  color: #fff;
+  font-size: 10px;
+  margin-left: 10px;
+  padding: 5px;
+}
+
+ a:hover {
+  opacity: 0.7;
+}
+
+.media-box img {
+  max-width: 100%;
+  height: auto;
+}
+
+.index-media img {
+  height: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }

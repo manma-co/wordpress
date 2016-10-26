@@ -1,0 +1,50 @@
+.leader img, .adviser img {
+  width: 300px;
+}
+
+.leader h4, .adviser h4 {
+  padding-right: 5%;
+  padding-left: 5%;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+}
+
+.leader h6, .adviser h6 {
+  padding-right: 5%;
+  padding-left: 5%;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+}
+
+.leader p, .adviser p {
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.social-icons {
+  padding-right: 5%;
+  padding-left: 5%;
+  margin-top: 20px;
+}
+.social-icons li {
+  display: inline-block;
+  float: none;
+}
+
+.social-icons a {
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  color: #c6cacc;
+  display: block;
+  font-size: 14px;
+  line-height: 32px;
+  margin-right: 5px;
+  text-align: center;
+  width: 25px;
+  height: 25px;
+}

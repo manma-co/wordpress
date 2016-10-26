@@ -1,0 +1,24 @@
+.team-content {
+  padding: 0 20%;
+}
+
+.team-staff {
+  text-align: center;
+  width: 100%;
+  height: auto;
+}
+
+.team .section-header {
+ padding-left: 8%;
+ padding-right: 8%;
+}
+
+.team h6 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.team p {
+  padding-bottom: 30px;
+}

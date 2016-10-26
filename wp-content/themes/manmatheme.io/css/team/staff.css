@@ -1,0 +1,16 @@
+.staff img {
+  width: 300px;
+}
+
+.staff span {
+  font-size: 0.63em;
+  padding-left: 20px;
+}
+
+.staff h4 {
+  padding-bottom: 5px;
+}
+
+.staff p {
+  line-height: 2;
+}

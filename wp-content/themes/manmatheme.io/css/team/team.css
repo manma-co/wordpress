@@ -1,0 +1,35 @@
+.content {
+  padding: 0 20%;
+}
+
+.team-member-wrapper {
+  padding: 0 20%;
+}
+
+.member-description-content {
+  padding: 20px 0 10px;
+}
+
+.member-title {
+  color: #3a3a3a;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-align: left;
+  font-size: 1.5em;
+}
+
+.staff-name {
+  color: #e798b6;
+  text-align: center;
+}
+
+.image-wrapper:hover {
+  opacity: 0.7;
+}
+
+.manmateam-wrapper {
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top bottom;
+}

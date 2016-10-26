@@ -1,0 +1,23 @@
+.qa-content {
+  background-image: url(../../image/index/qa/qa-bg-center.png);
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size:100%;
+  padding: 5% 10%;
+}
+
+.qa-item {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.qa h4 {
+  font-weight: 600;
+  padding-bottom: 10px;
+}
+
+.qa h6 {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}

@@ -1,0 +1,19 @@
+.subpage {
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: cover;
+  background-image: url(../../image/subpage/bg.png);
+  height: 300px;
+}
+
+.subpage-title {
+  padding-top: 150px;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.subpage-subtitle {
+  color: #fff;
+  font-weight: 700;
+}
